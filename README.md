@@ -20,6 +20,10 @@
 - Natural Language Processing
 - AI System Optimization
 
+## Publications
+
+- **Taichi: Elastic Multi-LLM Serving with Coordinated Memory–Compute Multiplexing**. Cunchi Lv, Xiao Shi, Zhengyu Lei, Xiao Li, Xinyu Li, Qingwen Li, **Zhipeng Tang**, Xiaofang Zhao. *2026 IEEE International Conference on Cluster Computing (CLUSTER 2026)*. Accepted.
+
 ## Patents (专利)
 
 Co-inventor on 8 robotics patents (1 granted utility model + 7 invention applications), applicant: 北京启物科技有限责任公司 (Beijing Qiwu Technology Co., Ltd.).
