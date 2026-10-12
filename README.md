@@ -22,6 +22,8 @@
 
 ## Publications
 
+- **Fewer Steps, Better Actions: Rethinking Flow-Matching Inference for VLA Policies** (Coda). **Zhipeng Tang**. Submitted to IEEE ICRA. [arXiv:2609.21216](https://arxiv.org/abs/2609.21216)
+- **Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Progress Verification**. Under review at ICLR 2027.
 - **Taichi: Elastic Multi-LLM Serving with Coordinated Memory–Compute Multiplexing**. Cunchi Lv, Xiao Shi, Zhengyu Lei, Xiao Li, Xinyu Li, Qingwen Li, **Zhipeng Tang**, Xiaofang Zhao. *2026 IEEE International Conference on Cluster Computing (CLUSTER 2026)*. Accepted.
 
 ## Patents (专利)
