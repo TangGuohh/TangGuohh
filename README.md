@@ -47,7 +47,7 @@ Co-inventor on 8 robotics patents (1 granted utility model + 7 invention applica
 ## Connect with Me
 
 - 🌐 GitHub: You're here!
-- 📧 Email: tangzhipeng23s@ict.ac.cn
+- 📧 Email: tangzhipeng23s@ict.ac.cn, 2444198418@qq.com
 
 ---
 
