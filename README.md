@@ -26,7 +26,7 @@
 ## Publications
 
 - **Fewer Steps, Better Actions: Rethinking Flow-Matching Inference for VLA Policies** (Coda). **Zhipeng Tang**, Xinda Chen, Weining Rao, Xiao Li, Wenting Tan, Yuning Wang, Xiao Shi, Xiaofang Zhao. [arXiv:2609.21216](https://arxiv.org/abs/2609.21216)
-- **Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection**. Zhen Liu, Xinyu Ning, Zhe Hu, Xinxin Xie, Weize Li, **Zhipeng Tang**, Chongyu Wang, Zejun Yang, Hanlin Wang, Yitong Liu, Zhongzhu Pu. [arXiv:2604.13942](https://arxiv.org/abs/2604.13942)
+- **Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Progress Verification**. Zhen Liu, Xinyu Ning, Zhe Hu, Xinxin Xie, Weize Li, **Zhipeng Tang**, Chongyu Wang, Zejun Yang, Hanlin Wang, Yitong Liu, Zhongzhu Pu. [arXiv:2604.13942](https://arxiv.org/abs/2604.13942)
 - **Taichi: Elastic Multi-LLM Serving with Coordinated Memory–Compute Multiplexing**. Cunchi Lv, Xiao Shi, Zhengyu Lei, Xiao Li, Xinyu Li, Qingwen Li, **Zhipeng Tang**, Xiaofang Zhao. *2026 IEEE International Conference on Cluster Computing (CLUSTER 2026)*.
 
 ## Patents (专利)
@@ -47,7 +47,7 @@ Co-inventor on 8 robotics patents (1 granted utility model + 7 invention applica
 ## Connect with Me
 
 - 🌐 GitHub: You're here!
-- 📧 Email: tangzhipeng23s@ict.ac.cn
+- 📧 Email: tangzhipeng23s@ict.ac.cn, 2444198418@qq.com
 
 ---
 
