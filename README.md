@@ -29,6 +29,10 @@
 - **Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Progress Verification**. Zhen Liu, Xinyu Ning, Zhe Hu, Xinxin Xie, Weize Li, **Zhipeng Tang**, Chongyu Wang, Zejun Yang, Hanlin Wang, Yitong Liu, Zhongzhu Pu. [arXiv:2604.13942](https://arxiv.org/abs/2604.13942)
 - **Taichi: Elastic Multi-LLM Serving with Coordinated Memory–Compute Multiplexing**. Cunchi Lv, Xiao Shi, Zhengyu Lei, Xiao Li, Xinyu Li, Qingwen Li, **Zhipeng Tang**, Xiaofang Zhao. *2026 IEEE International Conference on Cluster Computing (CLUSTER 2026)*.
 
+## Open Source Contributions
+
+- **[any4lerobot](https://github.com/Tavish9/any4lerobot)** ![Stars](https://img.shields.io/github/stars/Tavish9/any4lerobot?style=social) — a collection of utilities for LeRobot. Contributor: added the LeRobot dataset merging tool ([#16](https://github.com/Tavish9/any4lerobot/pull/16)) and split `max_dim` into `state_max_dim` / `action_max_dim` for heterogeneous datasets ([#30](https://github.com/Tavish9/any4lerobot/pull/30)).
+
 ## Patents (专利)
 
 Co-inventor on 8 robotics patents (1 granted utility model + 7 invention applications), applicant: 北京启物科技有限责任公司 (Beijing Qiwu Technology Co., Ltd.).
