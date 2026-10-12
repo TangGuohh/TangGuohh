@@ -2,23 +2,32 @@
 
 ## About Me
 
-🎓 **PhD Student** at University of Chinese Academy of Sciences (中国科学院大学)  
-🏛️ **Institute of Computing Technology (ICT), CAS** - 2nd Year PhD Candidate  
-🔬 **Research Focus**: Machine Learning, Deep Learning, and AI Systems  
+🎓 **PhD Student** (2nd year, master-to-PhD track) at University of Chinese Academy of Sciences (中国科学院大学)  
+🏛️ **Institute of Computing Technology (ICT), CAS** — Distributed Systems Research Center, Serverless & Trusted Computing Group  
+👨‍🏫 **Advisor**: Xiaofang Zhao  
 
 ## What I'm Working On
 
-- 🤖 Deep learning model training and optimization
-- 📊 Machine learning research projects  
-- 🌟 Contributing to open-source AI/ML communities
-- 📚 Learning and sharing knowledge in computer science
+- 🤖 Vision-Language-Action (VLA) model inference optimization
+- ⚡ Few-step flow-matching inference for robot policies (step–quality trade-off, integration error, learned endpoint correction)
+- 🚀 Efficient deployment of flow-matching policies on real robots (low-latency action generation, sampling/operator/scheduling optimization)
+- 🎯 Long-horizon manipulation with planning and progress verification
+- 🌾 Embodied AI and agricultural harvesting robots (mushroom harvesting)
+- 🖥️ Efficient LLM serving systems
 
 ## Research Interests
 
-- Neural Networks and Deep Learning
-- Computer Vision
-- Natural Language Processing
-- AI System Optimization
+- Vision-Language-Action (VLA) Models and Embodied AI
+- Flow-Matching Inference Optimization for Robot Policies
+- Efficient Deployment of Foundation Model Policies on Real Robots
+- Long-Horizon Manipulation with Adaptive Planning
+- LLM Serving Systems
+
+## Publications
+
+- **Fewer Steps, Better Actions: Rethinking Flow-Matching Inference for VLA Policies** (Coda). **Zhipeng Tang**, Xinda Chen, Weining Rao, Xiao Li, Wenting Tan, Yuning Wang, Xiao Shi, Xiaofang Zhao. [arXiv:2609.21216](https://arxiv.org/abs/2609.21216)
+- **Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection**. Zhen Liu, Xinyu Ning, Zhe Hu, Xinxin Xie, Weize Li, **Zhipeng Tang**, Chongyu Wang, Zejun Yang, Hanlin Wang, Yitong Liu, Zhongzhu Pu. [arXiv:2604.13942](https://arxiv.org/abs/2604.13942)
+- **Taichi: Elastic Multi-LLM Serving with Coordinated Memory–Compute Multiplexing**. Cunchi Lv, Xiao Shi, Zhengyu Lei, Xiao Li, Xinyu Li, Qingwen Li, **Zhipeng Tang**, Xiaofang Zhao. *2026 IEEE International Conference on Cluster Computing (CLUSTER 2026)*.
 
 ## Patents (专利)
 
@@ -38,7 +47,7 @@ Co-inventor on 8 robotics patents (1 granted utility model + 7 invention applica
 ## Connect with Me
 
 - 🌐 GitHub: You're here!
-- 📧 Feel free to reach out for collaboration opportunities
+- 📧 Email: tangzhipeng23s@ict.ac.cn
 
 ---
 
